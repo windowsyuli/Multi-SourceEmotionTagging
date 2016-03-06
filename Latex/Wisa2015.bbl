@@ -1,0 +1,125 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Alm et~al.(2005)Alm, Roth, and Sproat]{alm2005emotions}
+C.O. Alm, D.~Roth, and R.~Sproat.
+\newblock Emotions from text: machine learning for text-based emotion
+  prediction.
+\newblock In \emph{Proceedings of the conference on Human Language Technology
+  and Empirical Methods in Natural Language Processing}, pages 579--586.
+  Association for Computational Linguistics, 2005.
+
+\bibitem[Aman and Szpakowicz(2008)]{aman2008using}
+Saima Aman and Stan Szpakowicz.
+\newblock Using roget's thesaurus for fine-grained emotion recognition.
+\newblock In \emph{Proceedings of the Third International Joint Conference on
+  Natural Language Processing}, pages 296--302, 2008.
+
+\bibitem[Bao et~al.(2009)Bao, Xu, Zhang, Yan, Su, Han, and Yu]{bao2009joint}
+S.~Bao, S.~Xu, L.~Zhang, R.~Yan, Z.~Su, D.~Han, and Y.~Yu.
+\newblock Joint emotion-topic modeling for social affective text mining.
+\newblock In \emph{Data Mining, 2009. ICDM'09. Ninth IEEE International
+  Conference on}, pages 699--704. Ieee, 2009.
+
+\bibitem[Bao et~al.(2011)Bao, Xu, Zhang, Yan, Su, Han, and Yu]{bao2011mining}
+S.~Bao, S.~Xu, L.~Zhang, R.~Yan, Z.~Su, D.~Han, and Y.~Yu.
+\newblock Mining social emotions from affective text.
+\newblock \emph{IEEE Transactions on Knowledge and Data Engineering}, \penalty0
+  (99):\penalty0 1--1, 2011.
+
+\bibitem[Binali and Potdar(2012)]{binali2012emotion}
+Haji Binali and Vidyasagar Potdar.
+\newblock Emotion detection state of the art.
+\newblock In \emph{Proceedings of the CUBE International Information Technology
+  Conference}, pages 501--507. ACM, 2012.
+
+\bibitem[Das and Bandyopadhyay(2009)]{das2009word}
+D.~Das and S.~Bandyopadhyay.
+\newblock Word to sentence level emotion tagging for bengali blogs.
+\newblock In \emph{Proceedings of the ACL-IJCNLP 2009 Conference Short Papers},
+  pages 149--152. Association for Computational Linguistics, 2009.
+
+\bibitem[Das and Bandyopadhyay(2010)]{das2010sentence}
+D.~Das and S.~Bandyopadhyay.
+\newblock Sentence level emotion tagging on blog and news corpora.
+\newblock \emph{Journal of Intelligent System}, 19\penalty0 (2), 2010.
+
+\bibitem[Ekman(1992)]{ekman1992argument}
+Paul Ekman.
+\newblock An argument for basic emotions.
+\newblock \emph{Cognition \& Emotion}, 6\penalty0 (3-4):\penalty0 169--200,
+  1992.
+
+\bibitem[Lin et~al.(2007)Lin, Yang, and Chen]{lin2007emotions}
+K.H.Y. Lin, C.~Yang, and H.H. Chen.
+\newblock What emotions do news articles trigger in their readers?
+\newblock In \emph{Proceedings of the 30th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  733--734. ACM, 2007.
+
+\bibitem[Lin et~al.(2008)Lin, Yang, and Chen]{lin2008emotion}
+K.H.Y. Lin, C.~Yang, and H.H. Chen.
+\newblock Emotion classification of online news articles from the reader's
+  perspective.
+\newblock In \emph{Web Intelligence and Intelligent Agent Technology, 2008.
+  WI-IAT'08. IEEE/WIC/ACM International Conference on}, volume~1, pages
+  220--226. IEEE, 2008.
+
+\bibitem[Liu et~al.(2003)Liu, Lieberman, and Selker]{liu2003model}
+Hugo Liu, Henry Lieberman, and Ted Selker.
+\newblock A model of textual affect sensing using real-world knowledge.
+\newblock In \emph{Proceedings of the 8th international conference on
+  Intelligent user interfaces}, pages 125--132. ACM, 2003.
+
+\bibitem[Mishne and de~Rijke(2006)]{mishne2006capturing}
+Gilad Mishne and Maarten de~Rijke.
+\newblock Capturing global mood levels using blog posts.
+\newblock In \emph{AAAI Spring Symposium: Computational Approaches to Analyzing
+  Weblogs}, pages 145--152, 2006.
+
+\bibitem[Neviarouskaya et~al.(2007)Neviarouskaya, Prendinger, and
+  Ishizuka]{neviarouskaya2007narrowing}
+Alena Neviarouskaya, Helmut Prendinger, and Mitsuru Ishizuka.
+\newblock Narrowing the social gap among people involved in global dialog:
+  Automatic emotion detection in blog posts.
+\newblock In \emph{ICWSM}. Citeseer, 2007.
+
+\bibitem[Roget(1852)]{roget1852}
+Peter~Mark Roget.
+\newblock Roget’s thesaurus of english words and phrases.
+\newblock \emph{Harlow, Essex, England: Longman Group Limited}, 1852.
+
+\bibitem[Yang et~al.(2007{\natexlab{a}})Yang, Lin, and Chen]{yang2007emotion}
+C.~Yang, K.H.Y. Lin, and H.H. Chen.
+\newblock Emotion classification using web blog corpora.
+\newblock In \emph{Web Intelligence, IEEE/WIC/ACM International Conference on},
+  pages 275--278. Ieee, 2007{\natexlab{a}}.
+
+\bibitem[Yang et~al.(2007{\natexlab{b}})Yang, Lin, and Chen]{yang2007building}
+Changhua Yang, Kevin Hsin-Yih Lin, and Hsin-Hsi Chen.
+\newblock Building emotion lexicon from weblog corpora.
+\newblock In \emph{Proceedings of the 45th Annual Meeting of the ACL on
+  Interactive Poster and Demonstration Sessions}, pages 133--136. Association
+  for Computational Linguistics, 2007{\natexlab{b}}.
+
+\bibitem[Zhang et~al.(2012)Zhang, Fang, Quan, Dai, Si, and
+  Yuan]{zhang2012emotion}
+Y.~Zhang, Y.~Fang, X.~Quan, L.~Dai, L.~Si, and X.~Yuan.
+\newblock Emotion tagging for comments of online news by meta classification
+  with heterogeneous information sources.
+\newblock In \emph{Proceedings of the 35th international ACM SIGIR conference
+  on Research and development in information retrieval}, pages 1059--1060. ACM,
+  2012.
+
+\bibitem[Zhang et~al.(2014)Zhang, Zhang, Si, Lu, Wang, and Yuan]{ZhangZSLWY14}
+Ying Zhang, Ning Zhang, Luo Si, Yanshan Lu, Qifan Wang, and Xiaojie Yuan.
+\newblock Cross-domain and cross-category emotion tagging for comments of
+  online news.
+\newblock In \emph{The 37th International {ACM} {SIGIR} Conference on Research
+  and Development in Information Retrieval}, pages 627--636, 2014.
+
+\end{thebibliography}
